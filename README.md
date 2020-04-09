@@ -4,6 +4,6 @@
 ![](./Slide5.png)
 
 ## How to use it. 
-& ./download.sh
+$ ./download.sh
 
 ![](./demo.gif)
